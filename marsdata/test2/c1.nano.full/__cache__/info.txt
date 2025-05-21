@@ -1,0 +1,5 @@
+last_saved_epoch=10
+train_loss=2372.9394092559814
+validation_loss=256.19148445129395
+best_loss_epoch=10
+best_loss=256.19148445129395

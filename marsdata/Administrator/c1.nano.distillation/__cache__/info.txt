@@ -1,0 +1,5 @@
+last_saved_epoch=2
+train_loss=77.51897430419922
+validation_loss=nan
+best_loss_epoch=2
+best_loss=nan
